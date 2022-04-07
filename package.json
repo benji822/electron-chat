@@ -1,0 +1,14 @@
+{
+  "name": "electronchat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Benjamin Ng",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^18.0.3"
+  }
+}
